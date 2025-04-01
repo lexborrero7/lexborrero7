@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lexborrero7
+- 👋 Hi, I’m Lex Borrero
 - 👀 I’m interested in Machine Learning, Wrestling, and Video Games!
 - 🌱 I’m currently learning Java, AI Basics
 - 💞️ I’m looking to collaborate on new AI projects
