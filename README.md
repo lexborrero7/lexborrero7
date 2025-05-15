@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lex Borrero
-- 👀 I’m interested in Machine Learning, Wrestling, and Video Games!
-- 🌱 I’m currently learning Java, AI Basics
+- 👀 I’m interested in Machine Learning and Video Games!
+- 🌱 I’m currently learning AI Basics and Python 
 - 💞️ I’m looking to collaborate on new AI projects
 - 📫 How to reach me: lexborrero05@gmail.com
 - 😄 Pronouns: He/Him
